@@ -83,3 +83,6 @@ This is a simple AI-based chatbot built using Python. It interacts with users by
 
   3.These are classic NLP techniques to understand the meaning and intent of user input.
 
+  # OUTPUT OF PROJECT
+  ![Image](https://github.com/user-attachments/assets/17ab92a7-24b8-450a-8474-d289f6bb5431)
+
