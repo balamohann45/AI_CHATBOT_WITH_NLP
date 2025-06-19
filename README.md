@@ -55,6 +55,7 @@ This is a simple AI-based chatbot built using Python. It interacts with users by
   Run this in your terminal or command prompt:
 
   pip install nltk scikit-learn
+  
 2.Run the Script
 
   python chatbot.py
@@ -71,7 +72,7 @@ This is a simple AI-based chatbot built using Python. It interacts with users by
 
   2.This classification mimics human-like understanding of text, which is a part of Artificial Intelligence.
 
-💬 Why is it NLP (Natural Language Processing)?
+# 💬 Why is it NLP (Natural Language Processing)?
   1.It processes natural human language input (like “What is AI?”, “Hi”, etc.).
 
   Uses:
